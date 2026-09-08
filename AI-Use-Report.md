@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Kyle Core
+- Week: 01
+- Lab: 02
+- Date: 09/08/2026
 
 ## AI Use
 
